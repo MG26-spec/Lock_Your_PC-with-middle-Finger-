@@ -24,10 +24,11 @@ Install the required libraries using pip:
 
 ```bash
 pip install opencv-python mediapipe
-🚀 How to Run
+
+##🚀 How to Run
 Run the script using Python:
 
-bash
+```bash
 Copy
 Edit
 python Lock_your_PC.py
@@ -37,19 +38,19 @@ Raise only your middle finger to trigger the lock.
 
 Press q to exit the application manually.
 
-⚙️ How It Works
+##⚙️ How It Works
 Uses MediaPipe to detect hand landmarks.
 
 Checks the position of fingers to see if only the middle finger is up.
 
 If the condition is met, executes a system-specific command to lock the screen.
 
-🧠 Logic Breakdown
+##🧠 Logic Breakdown
 Thumb and all other fingers except the middle one must be down.
 
 If the middle finger is the only one raised, the system is locked immediately.
 
-⚠️ Note
+##⚠️ Note
 The system will lock immediately once the gesture is detected. Make sure to save your work before running this script.
 
-📷 Preview
+##📷 Preview
