@@ -24,14 +24,14 @@ Install the required libraries using pip:
 
 ```bash
 pip install opencv-python mediapipe
-
+```
 ##🚀 How to Run
 Run the script using Python:
 
 ```bash
-Copy
-Edit
+
 python Lock_your_PC.py
+```
 Make sure your webcam is enabled.
 
 Raise only your middle finger to trigger the lock.
