@@ -52,9 +52,6 @@ python Lock_your_PC.py
 
 The system will **lock immediately** once the gesture is detected. Make sure to save your work before running this script.
 
-## 📷 Preview
-
-_Add a screenshot or GIF demonstrating the gesture here (optional)._
 
 ## 📄 License
 
